@@ -1,0 +1,76 @@
+".imp","plan_type_mod","weight","n_rows","actual_model_rows","expected_eligible_rows"
+1,"GP basic ambulatory","unweighted",20566,20566,20566
+1,"GP intensive ambulatory","unweighted",26664,26664,26664
+1,"GP residential","unweighted",10338,10338,10338
+1,"WO intensive ambulatory","unweighted",4540,4540,4540
+1,"WO residential","unweighted",5336,5336,5336
+2,"GP basic ambulatory","unweighted",20566,20566,20566
+2,"GP intensive ambulatory","unweighted",26664,26664,26664
+2,"GP residential","unweighted",10338,10338,10338
+2,"WO intensive ambulatory","unweighted",4540,4540,4540
+2,"WO residential","unweighted",5336,5336,5336
+3,"GP basic ambulatory","unweighted",20566,20566,20566
+3,"GP intensive ambulatory","unweighted",26664,26664,26664
+3,"GP residential","unweighted",10338,10338,10338
+3,"WO intensive ambulatory","unweighted",4540,4540,4540
+3,"WO residential","unweighted",5336,5336,5336
+4,"GP basic ambulatory","unweighted",20566,20566,20566
+4,"GP intensive ambulatory","unweighted",26664,26664,26664
+4,"GP residential","unweighted",10338,10338,10338
+4,"WO intensive ambulatory","unweighted",4540,4540,4540
+4,"WO residential","unweighted",5336,5336,5336
+5,"GP basic ambulatory","unweighted",20566,20566,20566
+5,"GP intensive ambulatory","unweighted",26664,26664,26664
+5,"GP residential","unweighted",10338,10338,10338
+5,"WO intensive ambulatory","unweighted",4540,4540,4540
+5,"WO residential","unweighted",5336,5336,5336
+1,"GP basic ambulatory","w0_tr",20566,20561,20561
+1,"GP intensive ambulatory","w0_tr",26664,26653,26653
+1,"GP residential","w0_tr",10338,10335,10335
+1,"WO intensive ambulatory","w0_tr",4540,4536,4536
+1,"WO residential","w0_tr",5336,5332,5332
+2,"GP basic ambulatory","w0_tr",20566,20561,20561
+2,"GP intensive ambulatory","w0_tr",26664,26653,26653
+2,"GP residential","w0_tr",10338,10335,10335
+2,"WO intensive ambulatory","w0_tr",4540,4536,4536
+2,"WO residential","w0_tr",5336,5332,5332
+3,"GP basic ambulatory","w0_tr",20566,20561,20561
+3,"GP intensive ambulatory","w0_tr",26664,26653,26653
+3,"GP residential","w0_tr",10338,10335,10335
+3,"WO intensive ambulatory","w0_tr",4540,4536,4536
+3,"WO residential","w0_tr",5336,5332,5332
+4,"GP basic ambulatory","w0_tr",20566,20561,20561
+4,"GP intensive ambulatory","w0_tr",26664,26653,26653
+4,"GP residential","w0_tr",10338,10335,10335
+4,"WO intensive ambulatory","w0_tr",4540,4536,4536
+4,"WO residential","w0_tr",5336,5332,5332
+5,"GP basic ambulatory","w0_tr",20566,20561,20561
+5,"GP intensive ambulatory","w0_tr",26664,26653,26653
+5,"GP residential","w0_tr",10338,10335,10335
+5,"WO intensive ambulatory","w0_tr",4540,4536,4536
+5,"WO residential","w0_tr",5336,5332,5332
+1,"GP basic ambulatory","w1_tr",20566,20561,20561
+1,"GP intensive ambulatory","w1_tr",26664,26653,26653
+1,"GP residential","w1_tr",10338,10335,10335
+1,"WO intensive ambulatory","w1_tr",4540,4536,4536
+1,"WO residential","w1_tr",5336,5332,5332
+2,"GP basic ambulatory","w1_tr",20566,20561,20561
+2,"GP intensive ambulatory","w1_tr",26664,26653,26653
+2,"GP residential","w1_tr",10338,10335,10335
+2,"WO intensive ambulatory","w1_tr",4540,4536,4536
+2,"WO residential","w1_tr",5336,5332,5332
+3,"GP basic ambulatory","w1_tr",20566,20561,20561
+3,"GP intensive ambulatory","w1_tr",26664,26653,26653
+3,"GP residential","w1_tr",10338,10335,10335
+3,"WO intensive ambulatory","w1_tr",4540,4536,4536
+3,"WO residential","w1_tr",5336,5332,5332
+4,"GP basic ambulatory","w1_tr",20566,20561,20561
+4,"GP intensive ambulatory","w1_tr",26664,26653,26653
+4,"GP residential","w1_tr",10338,10335,10335
+4,"WO intensive ambulatory","w1_tr",4540,4536,4536
+4,"WO residential","w1_tr",5336,5332,5332
+5,"GP basic ambulatory","w1_tr",20566,20561,20561
+5,"GP intensive ambulatory","w1_tr",26664,26653,26653
+5,"GP residential","w1_tr",10338,10335,10335
+5,"WO intensive ambulatory","w1_tr",4540,4536,4536
+5,"WO residential","w1_tr",5336,5332,5332

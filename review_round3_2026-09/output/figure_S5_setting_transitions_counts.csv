@@ -1,0 +1,26 @@
+"from","to","n","origin_pairs","pct","role","cross"
+"GP-bas","GP-bas",5470,11227,48.7218312995457,"Same setting",FALSE
+"GP-int","GP-bas",2422,15760,15.3680203045685,"Lower intensity",FALSE
+"GP-res","GP-bas",956,7100,13.4647887323944,"Lower intensity",FALSE
+"WO-int","GP-bas",287,2794,10.2720114531138,"Lower intensity",TRUE
+"WO-res","GP-bas",407,3631,11.2090333241531,"Lower intensity",TRUE
+"GP-bas","GP-int",3645,11227,32.466375701434,"Higher intensity",FALSE
+"GP-int","GP-int",9133,15760,57.9505076142132,"Same setting",FALSE
+"GP-res","GP-int",2495,7100,35.1408450704225,"Lower intensity",FALSE
+"WO-int","GP-int",502,2794,17.967072297781,"Same intensity",TRUE
+"WO-res","GP-int",915,3631,25.199669512531,"Lower intensity",TRUE
+"GP-bas","GP-res",1314,11227,11.7039280306404,"Higher intensity",FALSE
+"GP-int","GP-res",2854,15760,18.1091370558376,"Higher intensity",FALSE
+"GP-res","GP-res",3489,7100,49.1408450704225,"Same setting",FALSE
+"WO-int","GP-res",49,2794,1.75375805297065,"Higher intensity",TRUE
+"WO-res","GP-res",47,3631,1.29440925364913,"Same intensity",TRUE
+"GP-bas","WO-int",391,11227,3.48267569252694,"Higher intensity",TRUE
+"GP-int","WO-int",565,15760,3.58502538071066,"Same intensity",TRUE
+"GP-res","WO-int",65,7100,0.915492957746479,"Lower intensity",TRUE
+"WO-int","WO-int",1286,2794,46.0272011453114,"Same setting",FALSE
+"WO-res","WO-int",808,3631,22.2528229137979,"Lower intensity",FALSE
+"GP-bas","WO-res",407,11227,3.62518927585285,"Higher intensity",TRUE
+"GP-int","WO-res",786,15760,4.98730964467005,"Higher intensity",TRUE
+"GP-res","WO-res",95,7100,1.33802816901408,"Same intensity",TRUE
+"WO-int","WO-res",670,2794,23.9799570508232,"Higher intensity",FALSE
+"WO-res","WO-res",1454,3631,40.0440649958689,"Same setting",FALSE

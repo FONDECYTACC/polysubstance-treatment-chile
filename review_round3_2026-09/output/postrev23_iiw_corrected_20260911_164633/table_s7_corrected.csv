@@ -1,0 +1,6 @@
+"Baseline treatment setting","Inverse intensity weighted RR (95% CI) (lag0)","Inverse intensity weighted RR (95% CI) (lag1)"
+"Basic ambulatory","1.07 (1.05, 1.09)","1.08 (1.07, 1.10)"
+"General-population, intensive ambulatory","1.06 (1.04, 1.08)","1.07 (1.05, 1.08)"
+"General-population, residential","1.03 (0.99, 1.06)","1.01 (0.98, 1.04)"
+"Women-only, intensive ambulatory","1.07 (1.02, 1.12)","1.09 (1.05, 1.12)"
+"Women-only, residential","1.16 (1.10, 1.22)","1.07 (1.03, 1.12)"

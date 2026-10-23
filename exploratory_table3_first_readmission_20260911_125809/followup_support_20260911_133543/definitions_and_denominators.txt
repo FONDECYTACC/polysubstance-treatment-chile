@@ -1,0 +1,11 @@
+Observed follow-up and persistence for fixed index x first-readmission-intensity combinations
+Recurrent cohort: 27,445 patients / 67,957 treatments. Median 2.0; IQR 2.0-3.0; range 2-13.
+The fixed grouping uses one transition, first to second treatment. Second readmission means third treatment, which supplies the second observed transition.
+Exact setting uses all five programme/modality combinations; intensity uses basic ambulatory=1, intensive ambulatory=2, residential=3. Same exact setting implies same intensity, but the reverse need not hold.
+Third-treatment persistence compares treatment 3 with treatment 2, not with the index. Any change from third onward includes 2->3, 3->4, and every later adjacent pair. Moves followed by returns still count as a change.
+Third-treatment persistence and ever-change counts overlap: a patient may remain at treatment 3 and change at a later treatment. Their percentages should not be added. Counts of same at third then changed later are exported explicitly.
+Primary conditional percentages use patients observed at treatment 3. Relative to the complete stratum, the same counts and their percentages are also exported. Patients observed only twice are ineligible for third-treatment persistence, not classified as stable.
+The supplementary strictly-after-third table excludes 2->3 and considers 3->4 onward, with patients observed at treatment 4 as its denominator.
+Zero-size combinations are structurally impossible. Their cohort share is 0%, while persistence and follow-up percentages conditional on these empty groups are undefined.
+Counts describe observed registry trajectories in the recurrent cohort. Lack of another recorded treatment is not evidence of stable setting, successful completion or no need for care. Observation periods and opportunities for readmission differ; these tables describe sample coverage rather than establish external generalizability.
+No outcome model or inverse-intensity weight was re-estimated. No identifiers or individual trajectories are exported.
