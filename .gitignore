@@ -1,2 +1,34 @@
+# Defensive whitelist: ignore everything, then allow only the published support material.
+*
+!*/
+!.gitignore
+!.nojekyll
+!index.html
+!README.md
+!figure_s1_flowchart/**
+!submission_2025-10/**
+!review_round2_2026-06/**
+!review_round3_2026-09/**
+!exploratory_table3_first_readmission_20260911_125809/**
+
+# Never publish data or model objects, even inside allowed folders.
+*.rds
+*.RData
+*.Rdata
+*.rda
+*.parquet
+*.qs
+*.feather
+*.fst
+*.sav
+*.dta
+*.xlsx
+*.gz
+*.zip
+*.enc
+*.pkl
+
+# Local clutter
 desktop.ini
 .Rhistory
+.Rproj.user/
